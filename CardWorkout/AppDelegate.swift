@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  CardWorkout
 //
-//  Created by Janet Victoria on 1/4/23.
+//  
 //
 
 import UIKit
